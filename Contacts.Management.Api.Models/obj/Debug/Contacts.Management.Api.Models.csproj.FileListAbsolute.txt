@@ -1,0 +1,5 @@
+C:\Users\yeshwant\documents\visual studio 2013\Projects\Contacts.Management\Contacts.Management.Api.Models\bin\Debug\Contacts.Management.Api.Models.dll
+C:\Users\yeshwant\documents\visual studio 2013\Projects\Contacts.Management\Contacts.Management.Api.Models\bin\Debug\Contacts.Management.Api.Models.pdb
+C:\Users\yeshwant\documents\visual studio 2013\Projects\Contacts.Management\Contacts.Management.Api.Models\obj\Debug\Contacts.Management.Api.Models.csprojResolveAssemblyReference.cache
+C:\Users\yeshwant\documents\visual studio 2013\Projects\Contacts.Management\Contacts.Management.Api.Models\obj\Debug\Contacts.Management.Api.Models.dll
+C:\Users\yeshwant\documents\visual studio 2013\Projects\Contacts.Management\Contacts.Management.Api.Models\obj\Debug\Contacts.Management.Api.Models.pdb

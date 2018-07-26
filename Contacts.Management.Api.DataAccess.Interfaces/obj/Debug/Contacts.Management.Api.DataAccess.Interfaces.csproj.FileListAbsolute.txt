@@ -1,0 +1,7 @@
+C:\Users\yeshwant\documents\visual studio 2013\Projects\Contacts.Management\Contacts.Management.Api.DataAccess.Interfaces\bin\Debug\Contacts.Management.Api.DataAccess.Interfaces.dll
+C:\Users\yeshwant\documents\visual studio 2013\Projects\Contacts.Management\Contacts.Management.Api.DataAccess.Interfaces\bin\Debug\Contacts.Management.Api.DataAccess.Interfaces.pdb
+C:\Users\yeshwant\documents\visual studio 2013\Projects\Contacts.Management\Contacts.Management.Api.DataAccess.Interfaces\bin\Debug\Contacts.Management.Api.Models.dll
+C:\Users\yeshwant\documents\visual studio 2013\Projects\Contacts.Management\Contacts.Management.Api.DataAccess.Interfaces\bin\Debug\Contacts.Management.Api.Models.pdb
+C:\Users\yeshwant\documents\visual studio 2013\Projects\Contacts.Management\Contacts.Management.Api.DataAccess.Interfaces\obj\Debug\Contacts.Management.Api.DataAccess.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\yeshwant\documents\visual studio 2013\Projects\Contacts.Management\Contacts.Management.Api.DataAccess.Interfaces\obj\Debug\Contacts.Management.Api.DataAccess.Interfaces.dll
+C:\Users\yeshwant\documents\visual studio 2013\Projects\Contacts.Management\Contacts.Management.Api.DataAccess.Interfaces\obj\Debug\Contacts.Management.Api.DataAccess.Interfaces.pdb

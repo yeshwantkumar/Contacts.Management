@@ -1,0 +1,12 @@
+C:\Users\yeshwant\documents\visual studio 2013\Projects\Contacts.Management\Contacts.Management.Api.DataAccess.Context\bin\Debug\Contacts.Management.Api.DataAccess.Context.dll.config
+C:\Users\yeshwant\documents\visual studio 2013\Projects\Contacts.Management\Contacts.Management.Api.DataAccess.Context\bin\Debug\Contacts.Management.Api.DataAccess.Context.dll
+C:\Users\yeshwant\documents\visual studio 2013\Projects\Contacts.Management\Contacts.Management.Api.DataAccess.Context\bin\Debug\Contacts.Management.Api.DataAccess.Context.pdb
+C:\Users\yeshwant\documents\visual studio 2013\Projects\Contacts.Management\Contacts.Management.Api.DataAccess.Context\bin\Debug\Contacts.Management.Api.Models.dll
+C:\Users\yeshwant\documents\visual studio 2013\Projects\Contacts.Management\Contacts.Management.Api.DataAccess.Context\bin\Debug\EntityFramework.dll
+C:\Users\yeshwant\documents\visual studio 2013\Projects\Contacts.Management\Contacts.Management.Api.DataAccess.Context\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yeshwant\documents\visual studio 2013\Projects\Contacts.Management\Contacts.Management.Api.DataAccess.Context\bin\Debug\Contacts.Management.Api.Models.pdb
+C:\Users\yeshwant\documents\visual studio 2013\Projects\Contacts.Management\Contacts.Management.Api.DataAccess.Context\bin\Debug\EntityFramework.xml
+C:\Users\yeshwant\documents\visual studio 2013\Projects\Contacts.Management\Contacts.Management.Api.DataAccess.Context\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yeshwant\documents\visual studio 2013\Projects\Contacts.Management\Contacts.Management.Api.DataAccess.Context\obj\Debug\Contacts.Management.Api.DataAccess.Context.csprojResolveAssemblyReference.cache
+C:\Users\yeshwant\documents\visual studio 2013\Projects\Contacts.Management\Contacts.Management.Api.DataAccess.Context\obj\Debug\Contacts.Management.Api.DataAccess.Context.dll
+C:\Users\yeshwant\documents\visual studio 2013\Projects\Contacts.Management\Contacts.Management.Api.DataAccess.Context\obj\Debug\Contacts.Management.Api.DataAccess.Context.pdb

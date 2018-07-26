@@ -1,0 +1,16 @@
+C:\Users\yeshwant\documents\visual studio 2013\Projects\Contacts.Management\Contacts.Management.Api.DataAccess.Repositories\bin\Debug\Contacts.Management.Api.DataAccess.Repositories.dll.config
+C:\Users\yeshwant\documents\visual studio 2013\Projects\Contacts.Management\Contacts.Management.Api.DataAccess.Repositories\bin\Debug\Contacts.Management.Api.DataAccess.Repositories.dll
+C:\Users\yeshwant\documents\visual studio 2013\Projects\Contacts.Management\Contacts.Management.Api.DataAccess.Repositories\bin\Debug\Contacts.Management.Api.DataAccess.Repositories.pdb
+C:\Users\yeshwant\documents\visual studio 2013\Projects\Contacts.Management\Contacts.Management.Api.DataAccess.Repositories\bin\Debug\Contacts.Management.Api.DataAccess.Context.dll
+C:\Users\yeshwant\documents\visual studio 2013\Projects\Contacts.Management\Contacts.Management.Api.DataAccess.Repositories\bin\Debug\Contacts.Management.Api.DataAccess.Interfaces.dll
+C:\Users\yeshwant\documents\visual studio 2013\Projects\Contacts.Management\Contacts.Management.Api.DataAccess.Repositories\bin\Debug\Contacts.Management.Api.Models.dll
+C:\Users\yeshwant\documents\visual studio 2013\Projects\Contacts.Management\Contacts.Management.Api.DataAccess.Repositories\bin\Debug\EntityFramework.dll
+C:\Users\yeshwant\documents\visual studio 2013\Projects\Contacts.Management\Contacts.Management.Api.DataAccess.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yeshwant\documents\visual studio 2013\Projects\Contacts.Management\Contacts.Management.Api.DataAccess.Repositories\bin\Debug\Contacts.Management.Api.DataAccess.Context.pdb
+C:\Users\yeshwant\documents\visual studio 2013\Projects\Contacts.Management\Contacts.Management.Api.DataAccess.Repositories\bin\Debug\Contacts.Management.Api.DataAccess.Interfaces.pdb
+C:\Users\yeshwant\documents\visual studio 2013\Projects\Contacts.Management\Contacts.Management.Api.DataAccess.Repositories\bin\Debug\Contacts.Management.Api.Models.pdb
+C:\Users\yeshwant\documents\visual studio 2013\Projects\Contacts.Management\Contacts.Management.Api.DataAccess.Repositories\bin\Debug\EntityFramework.xml
+C:\Users\yeshwant\documents\visual studio 2013\Projects\Contacts.Management\Contacts.Management.Api.DataAccess.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yeshwant\documents\visual studio 2013\Projects\Contacts.Management\Contacts.Management.Api.DataAccess.Repositories\obj\Debug\Contacts.Management.Api.DataAccess.Repositories.csprojResolveAssemblyReference.cache
+C:\Users\yeshwant\documents\visual studio 2013\Projects\Contacts.Management\Contacts.Management.Api.DataAccess.Repositories\obj\Debug\Contacts.Management.Api.DataAccess.Repositories.dll
+C:\Users\yeshwant\documents\visual studio 2013\Projects\Contacts.Management\Contacts.Management.Api.DataAccess.Repositories\obj\Debug\Contacts.Management.Api.DataAccess.Repositories.pdb
